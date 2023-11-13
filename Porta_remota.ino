@@ -14,7 +14,7 @@ AsyncWebServer server(80);
 
 // REPLACE WITH YOUR NETWORK CREDENTIALS
 #define ACCESS_POINT 1
-const char* ssid = "#TRILOBIT";
+const char* ssid = "#SSID";
 const char* password = "coorp*2023";
 
 IPAddress ip(192, 168, 17, 100); //IP FIXO
